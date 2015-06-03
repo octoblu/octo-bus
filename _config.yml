@@ -9,27 +9,27 @@ url:
 
 # Owner/author information
 owner:
-  name:           Octoblu
-  avatar:         avatar.jpg
-  bio:            "Connect Anything. Connect Everything."
-  email:          support@octoblu.com
+  name: Octoblu
+  avatar: octopus.png
+  bio: "Connect Anything. Connect Everything."
+  email: support@octoblu.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
+  twitter: octoblu
   facebook:
-  github:          octoblu
+  github: octoblu
   stackexchange:
   linkedin:
   instagram:
   flickr:
   tumblr:
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +octoblu
+  google_plus: +octoblu
 
 # Background image to be tiled on all pages
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-60006262-10
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:

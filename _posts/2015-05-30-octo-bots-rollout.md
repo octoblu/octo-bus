@@ -1,11 +1,8 @@
 ---
 layout: post
 title: Octo Bots, Rollout!
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+description: "Indigo Skyfold"
 modified: 2015-05-30
-tags: [sample post]
 image:
-  feature: ob/look-up-wake-up.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: look-up-wake-up.jpg
 ---
