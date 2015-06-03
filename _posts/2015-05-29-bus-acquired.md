@@ -1,0 +1,16 @@
+---
+layout: post
+title: Bus Acquired
+description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+modified: 2015-05-30
+tags: [sample post]
+image:
+  feature: ob/awning-last-sighted.jpg
+---
+
+We learn how to pull the awning out for what would be the frist and last time. The Octo Bus is then driven back to our home base near the office so it can be prepared for its maiden (at least to us) voyage.
+
+<figure class="half">
+	<a href="/images/ob/first-drive-home.jpg"><img src="/images/ob/first-drive-home.jpg" alt="First Drive Home"></a>
+	<figcaption>First Drive Home</figcaption>
+</figure>
